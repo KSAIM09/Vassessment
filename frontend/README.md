@@ -1,5 +1,3 @@
-
-
 # MERN Blog Application
 
 This project is a full-stack blog posting web application using the MERN stack (MongoDB, Express, React, Node.js).
